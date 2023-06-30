@@ -1,2 +1,2 @@
-# CheetSheets
+# CheatSheets
 Uesful CheetSheets
